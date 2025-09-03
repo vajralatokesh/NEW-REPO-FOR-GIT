@@ -1,2 +1,2 @@
 # NEW-REPO-FOR-GIT
-learning git
+learning  git with vs code
